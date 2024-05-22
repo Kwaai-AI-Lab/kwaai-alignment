@@ -1,10 +1,10 @@
 # kwaai-alignment
 Alignment / Superalignment experiments
 
-General Alignment Next Steps:
+General Alignment research next steps:
 1) Survey of previous and current methods of alignment (RLHF, RLAIF, Inverse RL, CIRL, Weak to Strong...)
 
-Superalignment Next steps: 
+Superalignment research next steps: 
 1) Replicate experiment from weak to strong
 2) Extend experiment to our problem domain
 3) Generalize findings
