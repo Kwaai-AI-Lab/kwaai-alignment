@@ -11,7 +11,7 @@
 Our current goal this year is to produce a survey paper in alignment research and run small experiments.
 
 ### How can I contribute to this group?
-Right now, we’re working on the survey and small experiments. If you’d like to help out with either, reach out and we can get you started. Also, feel free to check the above Google Drive (Request access)
+Right now, we’re working on the survey and small experiments. If you’d like to help out with either, reach out and we can get you started.
 
 ### What if I don’t know anything about alignment?
 That's okay! We welcome all different backgrounds. If you are interested in this area and willing to help, then that is great.
