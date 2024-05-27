@@ -23,15 +23,20 @@ Yes, create a new branch, add your changes using the below format to `/Implement
 #### Folder Structure
 Please create a folder named `{experiment_name}` inside the `/Implementations` directory. The structure should look like this:
 
+```
 /Implementations
-├── {experiment_name}
-├── README.md
-├── relevant_paper_1.pdf
-├── relevant_paper_2.pdf
-├── code
-├────── script_1.py
-├────── script_2.py
-├────── ...
+│
+└───{/experiment_name}
+│   │   README.md
+│   │   relevant_paper_1.pdf
+│   │   relevant_paper_1.pdf
+│   │
+│   └───code
+│       │   script_1.py
+│       │   script_2.py
+│       │   ...
+
+```
 
 Feel free to add more specific instructions or scripts based on the particular experiment and its requirements.
 
