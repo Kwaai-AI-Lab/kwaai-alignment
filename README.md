@@ -1,7 +1,7 @@
 # Kwaai Alignment Research Lab
 
 ### :open_file_folder: Google Drive: [Kwaai Alignment Research Lab Drive](https://drive.google.com/drive/folders/1GHGNe58ARRyoc9wSVKIcwUPovjnoFbgi?usp=sharing)
-### :robot_face: Github: [Kwaai Alignment GitHub](https://github.com/Kwaai-AI-Lab/kwaai-alignment)
+### Github: [Kwaai Alignment GitHub](https://github.com/Kwaai-AI-Lab/kwaai-alignment)
 ### :handshake: Meetings: TBD
 
 ---
