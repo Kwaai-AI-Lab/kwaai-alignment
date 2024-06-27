@@ -37,4 +37,4 @@ you can test the model using Hugging Face Inference API: [Hugging Face](https://
 The model and tokenizer files can be accessed in the files section of the above link
 
 ### Reference Papers
-This repository includes a collection of reference papers that provide additional context and background on the methods and techniques used. You can find these papers in the `reference_papers` folder.
+This repository includes a collection of reference papers that provide additional context and background on the methods and techniques used.
