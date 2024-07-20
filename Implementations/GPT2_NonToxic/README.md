@@ -1,4 +1,4 @@
-# GPT-2 IMDB Sentiment Fine-Tuning with PPO
+# GPT-2 NonToxic FineTuning with PPO
 
 This repository contains code for fine-tuning a GPT-2 model on the IMDB dataset using Proximal Policy Optimization (PPO). The goal is to train the model to generate positive sentiment reviews. The training process utilizes the `trl` library for reinforcement learning, the `transformers` library for model handling, and `datasets` for dataset management.
 
@@ -33,7 +33,7 @@ The model and tokenizer are saved after training to the specified directory.
 
 ### Hugging Face Model
 The fine-tuned model is available on Hugging Face. You can use the inference API to test the model and generate responses with custom input.
-you can test the model using Hugging Face Inference API: [Hugging Face](https://huggingface.co/pt-sk/GPT2-IMDB-Sentiment-FineTuning-with-PPO)
+you can test the model using Hugging Face Inference API: [Hugging Face](https://huggingface.co/Kwaai/GPT2_NonToxic)
 The model and tokenizer files can be accessed in the files section of the above link
 
 ### Reference Papers
